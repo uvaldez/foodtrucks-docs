@@ -8,6 +8,8 @@ Let's discover **Food Trucks San Francisco APP**.
 
 ## Running APP on the cloud
 
+**NOTE:** The first time you visit the app it may take about 50 seconds to load since this is hosted in a free service and it goes to sleep after some time of inactivity, after first load application should be faster.
+
 To run the app on the cloud you just visit the following url: [foodtrucks-app](https://foodtrucks-app.onrender.com)
 
 ## Running the APP local
