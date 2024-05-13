@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+    "title": "Endpoints",
+    "permalink": "/docs/tutorial-basics/endpoints"
   },
   "next": {
     "title": "Deploy your site",
