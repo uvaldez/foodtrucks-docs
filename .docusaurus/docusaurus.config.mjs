@@ -37,7 +37,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Food Trucks App",
+      "title": "Food Trucks San Francisco App",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
