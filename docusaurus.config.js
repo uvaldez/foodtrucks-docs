@@ -56,7 +56,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Food Trucks San Francisco App',
+        title: 'Food Trucks App',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
