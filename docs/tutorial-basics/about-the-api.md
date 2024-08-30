@@ -9,6 +9,10 @@ This API is to serve requests for the food truck app and any other client that w
 
 [ExpressJS](https://expressjs.com/) was used as web framework to serve the API.
 
+# Cache
+
+[Node Cache](https://www.npmjs.com/package/node-cache) was used for cache layer.
+
 ## Repository
 
 https://github.com/uvaldez/foodtrucks-api

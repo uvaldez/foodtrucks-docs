@@ -2,6 +2,10 @@
 sidebar_position: 1
 ---
 
+## TL;DR
+
+I developed a simple application that lists food trucks and includes a search functionality. The app connects to a backend that handles data retrieval and hosts all endpoints. You can access the application [here]((https://foodtrucks-app.onrender.com)). The frontend code is available in this [repository]((https://github.com/uvaldez/foodtrucks-app)), and the backend code can be found in this [repository](https://github.com/uvaldez/foodtrucks-api).
+
 # Getting Started
 
 Let's discover **Food Trucks San Francisco APP**.
