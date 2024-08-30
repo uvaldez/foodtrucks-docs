@@ -82,12 +82,12 @@ export default {
               "href": "https://stackoverflow.com/users/5680419/uziel-valdez"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "LinkedIn",
+              "href": "https://www.linkedin.com/in/uzielvaldez"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Github",
+              "href": "https://github.com/uvaldez"
             }
           ]
         },
